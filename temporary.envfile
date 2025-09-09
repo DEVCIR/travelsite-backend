@@ -1,0 +1,25 @@
+PORT=8000
+# MONGODB_URI=mongodb+srv://alibilal0907:wMKLypYv4cceiwId@cluster0.hfi1now.mongodb.net/
+# MONGODB_URI=mongodb://127.0.0.1:27017/travelsite
+MONGODB_URI=mongodb+srv://hasnainoffice001_db_user:jZ1dYYkLY5tbzNg7@cluster0.5s38ogk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+# dbpass=jZ1dYYkLY5tbzNg7
+JWT_SECRET=Vn93!u@Kp7zTq#Xm2eLgC6$rF1dHb*Ya
+
+CLERK_PUBLISHABLE_KEY=pk_test_Z29yZ2VvdXMtcm91Z2h5LTMzLmNsZXJrLmFjY291bnRzLmRldiQ
+CLERK_SECRET_KEY=sk_test_Y0Xl1ZdKhK2B6st6wIftt7NPNBZBbGDTzubGi6PqIx
+CLERK_INSTANCE_ID=ins_2xPM81hyZuNYRy2LuPM1Or4hCFA
+CLERK_FRONTEND_API=https://gorgeous-roughy-33.clerk.accounts.dev
+
+OPENAI_API_KEY=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
+
+HOTEL_API_URL=https://api.travelsoft.com
+HOTEL_API_KEY=your_hotel_api_key_here
+
+
+EMAIL_USER=hasnainoffice001@gmail.com
+EMAIL_PASS=adachmbdqixmnpps
+EMAIL_FROM=hasnainoffice001@gmail.com
+
+STRIPE_API_KEY=pk_test_51RlbGWP169o9bXgX8k3cnnBFmJPDskoMppDXUW6o562atYGAlkeDVCttije5fKXxm9OmchXuaxNlbOluOcCbQ9SW002rrM1ilw
+STRIPE_SECRET=sk_test_51RlbGWP169o9bXgXdriWEjPc3BrPvl7qgbsCgrg8YlR23xTkNkAao9bEXgEl6rsH2CJ1BvPKylFKefaM4WVWIsrd00v3rFXbrt
+FRONTEND_URL=http://localhost:3000
